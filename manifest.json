@@ -60,6 +60,8 @@
         "/plugins/undeploy.js",
         "/plugins/groovyref.js",
         "/plugins/unlock.js",
+        "/plugins/example.js",
+        "/plugins/fileCreationHelper.js",
         "/plugins/credentialHelper.js",
         "/plugins/environmentTrafficLight.js",
         "/plugins/cpitransporter.js",
