@@ -6,7 +6,7 @@ var plugin = {
   author: "Gregor Schütz",
   email: "gregor.b.schuetz@gmail.com",
   website: "",
-  description: "Views the version history for an iFlow within the editor",
+  description: "Displays the version history for an iFlow within the editor",
   settings: {},
   messageSidebarContent: {
     static: true,
